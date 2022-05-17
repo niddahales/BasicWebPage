@@ -16,7 +16,6 @@
       }  
 });
     processApodJson(0);
-    console.log("hello");
   }
 
   //Fetch data from Mars photos from Curiosity
