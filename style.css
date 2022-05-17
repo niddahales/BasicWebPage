@@ -1,0 +1,52 @@
+body{
+  background-color: #767B91;
+  font-family: Arial;
+}
+
+#nav{
+  background-color: #D9F7FA; 
+  border-radius: 7px; 
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom:20px;
+}
+
+#wrap{
+  display:flex;
+  justify-content:center ;
+  align-items:center;
+}
+
+.img-nasa{
+  height: 50px;
+  width: 50px;
+}
+
+#headerp{
+  color: black;
+  font-weight:bold;
+  text-align:center;
+}
+
+#maindiv{
+  display:flex;
+  justify-content:center ;
+  margin:0 auto;
+  width: 70%;
+}
+
+#mainic{
+   display:flex;
+  justify-content:center;
+  width: 100%;
+}
+
+#footer{
+  display: flex;
+  justify-content:center;
+  vertical-align:bottom;
+  background-color: #D9F7FA;
+  border-radius: 7px;
+  margin:0 auto;
+  width: 70%;
+}
